@@ -1,7 +1,9 @@
 
 # STM32 blinking LED with Registers
 
-Start by downloading Datasheet and Reference Manual for your board.
+Documents required:
+- Datasheet
+- Reference Manual
 
 Inside Datasheet localize Block diagram:
 
@@ -188,7 +190,7 @@ If you chose correct board during project creation and set up register addresses
 
 ### Possible errors
 
-Build and go to debug
+Build and debug
 
 ![image](https://github.com/jmamej/STM32-blinking-LED-with-Registers/assets/57408600/9dda9aad-04e3-4a17-ad10-4f115d00b00e)
 
